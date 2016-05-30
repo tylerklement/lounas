@@ -24,10 +24,12 @@ const Restaurants = ({restaurants}) => (
   </ul>
 )
 
-const html = '<!DOCTYPE html>' + ReactDOMServer.renderToStaticMarkup(
+const htmlDoctype = '<!DOCTYPE html>'
+
+const html = htmlDoctype + ReactDOMServer.renderToStaticMarkup(
   <Html>
     <Restaurants restaurants={restaurants}/>
   </Html>
 )
 
-console.log(html);
+console.log(html)
