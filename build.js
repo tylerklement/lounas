@@ -9,6 +9,7 @@ const Html = ({children}) => (
     <head>
       <meta charSet='utf-8'/>
       <title>lounas</title>
+      <link href='style.css' rel='stylesheet'/>
     </head>
     <body>{children}</body>
   </html>
