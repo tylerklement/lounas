@@ -4,6 +4,7 @@ export default [
   ['Mount Everest Vilhola', 'http://www.everestyeti.fi/vilhola/fi/index.php'],
   ['Base Camp', 'http://www.basecampnepal.fi/helsinki/fi/index.php'],
   ['Maya', 'http://www.maya.fi/lounaat.php'],
+  ['Dong Bei Hu', 'http://www.dongbeihu.fi/'],
   ['Frans & Amélie', 'https://www.raflaamo.fi/fi/helsinki/frans-amelie-helsinki#/#browsing'],
   [
     'Kitzens Radisson Blu Plaza',
