@@ -5,9 +5,10 @@ import ReactDOMServer from 'react-dom/server'
 import restaurants from './src/restaurants'
 
 const Html = ({children}) => (
-  <html>
+  <html lang='fi'>
     <head>
       <meta charSet='utf-8'/>
+      <meta name='google' content='notranslate'/>
       <title>lounas</title>
       <link href='style.css' rel='stylesheet'/>
     </head>
