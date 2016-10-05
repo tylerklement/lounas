@@ -26,8 +26,11 @@ export default [
   ['Leonardo', 'http://www.leonardobarristorante.fi/lounas'],
   ['Sports Academy', 'http://www.sportsacademy.fi/lounas.html'],
   ['Shanghai Cowboy', 'https://www.facebook.com/ShanghaiCowboyHKI/'],
-  ['Pompier Espa', 'http://pompier.fi/espa/lounas/'],
 ]
+
+// Temporarily out-of-service
+//   ['Pompier Espa', 'http://pompier.fi/espa/lounas/']
+//
 
 // RIP
 //   ['Café Balzac', 'http://www.cafebalzac.fi/menu.php']
