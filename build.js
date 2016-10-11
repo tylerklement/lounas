@@ -10,7 +10,7 @@ const Html = ({children}) => (
       <meta charSet='utf-8'/>
       <meta name='google' content='notranslate'/>
       <title>lounas</title>
-      <meta name='viewport' content='width=device-width, initial-scale=1'/>
+      <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'/>
       <link href='style.css' rel='stylesheet'/>
     </head>
     <body>
