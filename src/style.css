@@ -1,6 +1,50 @@
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Arial';
+  font-size: 14px;
+  background-color: #fff9f9;
 }
-li {
-  margin-top: 10px;
+.header {
+  color: #fff;
+  background-color: #55B26F;
+  padding: 15px;
+  border-bottom: 2px solid #ECE1E1;
+}
+.header .link {
+  color: #fff;
+}
+.header .title {
+  font-size: 18px;
+  font-weight: 700;
+}
+.header .github {
+  float: right;
+  position: relative;
+  bottom: -4px;
+}
+.main {
+  padding: 5px 15px;
+}
+.list {
+  margin: 0;
+  padding: 0;
+}
+.item {
+  margin: 1px 0;
+  padding: 5px;
+  list-style-type: none;
+  border-bottom: 1px solid #ECE1E1;
+}
+
+.link {
+ text-decoration: none;
+ color: #12181C;
+}
+
+@media(min-width: 641px) {
+  .wrapper {
+    margin: 0 auto;
+    width: 600px;
+  }
 }
