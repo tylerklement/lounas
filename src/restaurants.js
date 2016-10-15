@@ -11,7 +11,6 @@ export default [
     'http://www.raflaamo.fi/helsinki/kitzens-helsinki-radisson-blu-plaza#'
       + 'navigation_raflaamolunchmenuportlet_war_raflaamorestaurantportlet',
   ],
-  ['Tablo Ateneum', 'https://www.facebook.com/TabloAteneum'],
   ['Il Siciliano', 'http://ilsiciliano2.fi/lounas/'],
   ['La Torrefazione', 'http://www.latorre.fi/toimipiste/aleksanterinkatu'],
   ['Fratello Torrefazione', 'http://www.latorre.fi/toimipiste/fratello'],
@@ -29,10 +28,10 @@ export default [
 ]
 
 // Temporarily out-of-service
-//   ['Pompier Espa', 'http://pompier.fi/espa/lounas/']
-//
+// ['Pompier Espa', 'http://pompier.fi/espa/lounas/'],
+// ['Tablo Ateneum', 'https://www.facebook.com/TabloAteneum'],
 
 // RIP
-//   ['Café Balzac', 'http://www.cafebalzac.fi/menu.php']
-//   ['Meze Point', 'http://www.meze.fi/lounas']
-//   ['Armas', 'http://armashelsinki.fi/']
+// ['Café Balzac', 'http://www.cafebalzac.fi/menu.php'],
+// ['Meze Point', 'http://www.meze.fi/lounas'],
+// ['Armas', 'http://armashelsinki.fi/'],
