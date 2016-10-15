@@ -99,7 +99,7 @@ module.exports = {
     //'key-spacing': 1,
     'keyword-spacing': 2,
     'linebreak-style': [2, 'unix'],
-    'max-len': [1, 100, 2],
+    'max-len': [1, 100, 2, {'ignoreUrls': true}],
     'new-parens': 1,
     'no-spaced-func': 1,
     'no-trailing-spaces': 1,
