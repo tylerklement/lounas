@@ -13,6 +13,7 @@ export default [
   ],
   ['Il Siciliano', 'http://ilsiciliano2.fi/lounas/'],
   ['La Torrefazione', 'http://www.latorre.fi/toimipiste/aleksanterinkatu'],
+  ['Lost in Helsinki', 'http://www.lostinhelsinki.fi/pdf/lunch.pdf'],
   ['Fratello Torrefazione', 'http://www.latorre.fi/toimipiste/fratello'],
   ['Woolshed', 'http://www.woolshed.eu/#!lounas-menu/ceik'],
   ['Belge', 'http://www.belge.fi/belge-lounas.html'],
