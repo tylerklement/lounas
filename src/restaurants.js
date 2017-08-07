@@ -13,7 +13,7 @@ export default [
   ],
   ['Il Siciliano', 'http://ilsiciliano2.fi/lounas/'],
   ['La Torrefazione', 'http://www.latorre.fi/toimipiste/aleksanterinkatu'],
-  ['Lost in Helsinki', 'http://www.lostinhelsinki.fi/pdf/lunch.pdf'],
+  ['Lost in Helsinki', 'https://www.lostinhelsinki.fi/lunch'],
   ['Fratello Torrefazione', 'http://www.latorre.fi/toimipiste/fratello'],
   ['Woolshed', 'http://www.woolshed.eu/#!lounas-menu/ceik'],
   ['Belge', 'http://www.belge.fi/belge-lounas.html'],
@@ -26,6 +26,7 @@ export default [
   ['Leonardo', 'http://www.leonardobarristorante.fi/lounas'],
   ['Sports Academy', 'http://www.sportsacademy.fi/lounas.html'],
   ['Shanghai Cowboy', 'https://www.facebook.com/ShanghaiCowboyHKI/'],
+  ['Zucchini', 'https://www.facebook.com/pages/Zucchini/195785583799461'],
 ]
 
 // Temporarily out-of-service
