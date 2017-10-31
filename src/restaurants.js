@@ -15,6 +15,7 @@ export default [
   ['La Torrefazione', 'http://www.latorre.fi/toimipiste/aleksanterinkatu'],
   ['Lost in Helsinki', 'https://www.lostinhelsinki.fi/lunch'],
   ['Fratello Torrefazione', 'http://www.latorre.fi/toimipiste/fratello'],
+  ['Home Taste', 'http://hometaste.fi/buffet/'],
   ['Woolshed', 'http://www.woolshed.eu/#!lounas-menu/ceik'],
   ['Belge', 'http://www.belge.fi/belge-lounas.html'],
   ['Morrisonʼs', 'http://www.lounaat.fi/#morrisons'],
