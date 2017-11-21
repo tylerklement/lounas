@@ -1,4 +1,5 @@
 export default [
+  ['Ateneum Bistro', 'https://www.facebook.com/ateneumbistro/'],
   ['Pajazzo', 'http://www.royalravintolat.com/casinohelsinki/piazza-lounas'],
   ['Factory Aleksi', 'http://www.ravintolafactory.com/aleksi/lounas/'],
   ['Mount Everest Vilhola', 'http://www.everestyeti.fi/vilhola/fi/index.php'],
