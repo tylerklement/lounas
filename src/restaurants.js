@@ -29,6 +29,7 @@ export default [
   ['Sports Academy', 'http://www.sportsacademy.fi/lounas.html'],
   ['Shanghai Cowboy', 'https://www.facebook.com/ShanghaiCowboyHKI/'],
   ['Zucchini', 'https://www.facebook.com/pages/Zucchini/195785583799461'],
+  ['Hard Rock Cafe', 'http://www.hardrock.com/cafes/helsinki/menu.aspx#LunchMenu'],
 ]
 
 // Temporarily out-of-service
