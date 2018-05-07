@@ -5,7 +5,6 @@ export default [
   ['Mount Everest Vilhola', 'http://www.everestyeti.fi/vilhola/fi/index.php'],
   ['Base Camp', 'http://www.basecampnepal.fi/helsinki/fi/index.php'],
   ['Maya', 'http://www.maya.fi/lounaat.php'],
-  ['Dong Bei Hu', 'http://www.dongbeihu.fi/'],
   ['Frans & Amélie', 'https://www.raflaamo.fi/fi/helsinki/frans-amelie-helsinki#/#browsing'],
   [
     'Kitzens Radisson Blu Plaza',
@@ -27,7 +26,6 @@ export default [
   ],
   ['Leonardo', 'http://www.leonardobarristorante.fi/lounas'],
   ['Sports Academy', 'http://www.sportsacademy.fi/lounas.html'],
-  ['Shanghai Cowboy', 'https://www.facebook.com/ShanghaiCowboyHKI/'],
   ['Zucchini', 'https://www.facebook.com/pages/Zucchini/195785583799461'],
   ['Hard Rock Cafe', 'http://www.hardrock.com/cafes/helsinki/menu.aspx#LunchMenu'],
 ]
@@ -40,3 +38,5 @@ export default [
 // ['Café Balzac', 'http://www.cafebalzac.fi/menu.php'],
 // ['Meze Point', 'http://www.meze.fi/lounas'],
 // ['Armas', 'http://armashelsinki.fi/'],
+// ['Dong Bei Hu', 'http://www.dongbeihu.fi/'],
+// ['Shanghai Cowboy', 'https://www.facebook.com/ShanghaiCowboyHKI/'],
