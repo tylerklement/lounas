@@ -28,7 +28,8 @@ export default [
   ['Sports Academy', 'http://www.sportsacademy.fi/lounas.html'],
   ['Zucchini', 'https://www.facebook.com/pages/Zucchini/195785583799461'],
   ['Hard Rock Cafe', 'http://www.hardrock.com/cafes/helsinki/menu.aspx#LunchMenu'],
-  ['Lo Stretto', 'http://www.lostretto.fi/menu-lounas-ja-a-la-carte']
+  ['Lo Stretto', 'http://www.lostretto.fi/menu-lounas-ja-a-la-carte'],
+  ['Bangkok 9', 'https://www.bangkok9restaurant.com/']
 ]
 
 // Temporarily out-of-service
