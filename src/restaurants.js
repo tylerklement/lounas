@@ -29,7 +29,8 @@ export default [
   ['Zucchini', 'https://www.facebook.com/pages/Zucchini/195785583799461'],
   ['Hard Rock Cafe', 'http://www.hardrock.com/cafes/helsinki/menu.aspx#LunchMenu'],
   ['Lo Stretto', 'http://www.lostretto.fi/menu-lounas-ja-a-la-carte'],
-  ['Bangkok 9', 'https://www.bangkok9restaurant.com/']
+  ['Bangkok 9', 'https://www.bangkok9restaurant.com/'],
+  ['Döner Harju', 'http://donerharju.fi/']
 ]
 
 // Temporarily out-of-service
